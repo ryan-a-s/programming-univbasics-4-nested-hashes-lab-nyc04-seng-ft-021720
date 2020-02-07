@@ -82,7 +82,8 @@ def adding_matz
           :languages => ["C"]
         }
      }
-
+	programmer_hash[:ryan_seit] = "Ryan Seit"
+	programmer_hash[:ryan_seit]
 
 end
 
